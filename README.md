@@ -1,1 +1,139 @@
 # J115_Final
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css" integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
+
+    <title>Luz Mendez J115 Final Project</title>
+    <style>
+    h1{
+            background-color: moccasin;
+           font-family: 'Oswald', sans-serif;
+
+        } 
+        h2{
+            background-color: moccasin;
+            font-family: 'Oswald', sans-serif;
+
+        }
+        body{
+            background-image: url(bg.img5.jfif);
+            background-size: contain
+        }
+        p{
+            background-color: mistyrose;
+            font-family: 'Special Elite', cursive;
+        }
+        .jumbotron{
+            background-image: url(bg.img5.jfif);
+            background-size: cover;
+        }
+  
+      
+    </style>
+  </head>
+  <body>
+      
+      
+    <header class="jumbotron">
+        <h1 class="text-center display-3">Mujer Luchona</h1>
+        <p class="lead text-center">This is the story of an immigrant mother who has persevered in the United States. </p>
+        <p class="lead text-center"> By: Luz Mendez</p>
+    </header>
+      
+      
+      
+    <div class="container">
+     <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">  
+        
+       <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+   
+        
+        
+        
+        <div class="row justify-content-center mb-5">
+            <div class="col-12 col-md-10">
+                <img class="d-block img-fluid" src="part1.jpg">
+               <p>
+                </p> 
+                <p>This is Miguela when she was one year old at the local Mercado. She does not have many pictures of herself when she was growing up because her aunt kept them.</p>
+                   <p> "I remember Tia Concha was always taking care of me. She was like my mom."</p>
+               <iframe src="https://anchor.fm/luz-mendez3/embed/episodes/Maria-Miguela-Reyes-Interview-ehtlf2" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+                
+                <iframe src="https://anchor.fm/luz-mendez3/embed/episodes/Maria-Miguela-Reyes-Interview-English-translation-ehvhdp" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+                
+                
+            </div>
+        </div>  
+      
+      
+        
+        
+        
+        <div class="row justify-content-center mb-5">
+            <div class="col-12 col-md-10">
+                <p>In this audio she talks about her mother, she didn't grow up with her and when she went to visit her she was raped. She was raised by her maternal grandparents who shaped her into the person she is today.</p>
+            </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Ow-RU6q7giI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        
+        
+        <div class="row justify-content-center mb-5">
+            <div class="col-12 col-md-10">
+                
+                <p>Miguela's journey to the United States happend because she was no longer happy with her husband. This video is a small recollection of life changing moments for her. She talks about the difficulties of coming here. </p>
+                <p> "I always looked up at the sky and said one day I will fly."</p>
+                <img class="d-block img-fluid" src="part2.JPG"> 
+            </div>
+        </div>  
+ 
+        
+        
+        
+        
+        <div class="row justify-content-center mb-5">
+            <div class="col-12 col-md-10">
+                <p>This was on Miguela's 50th birthday and her family. On the left is her son Royer, following her daughters Tais and Luz, and her eldest son Wilfredo.</p>
+                <p>"They are my reason for my living."</p>
+            </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/SxuBoBADZec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        
+        
+        
+        <div class="row justify-content-center mb-5">
+            <div class="col-12 col-md-10">
+                <p>Miguela is happy with her life, but she has had her independent struggles. For anyone planning to come she says to "keep luchando."</p>
+            </div>
+        </div>
+        
+      <div class="row justify-content-center mb-5">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/i3IlfiFmSFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <div class="col-12 col-md-10">
+              <p>
+              </p>
+                <p>One of her favorite songs is El Querreque. The reason for this is because her grandfather would always play huapangos and dance with her.</p>
+              <p>"Papá would always dance with me and would wait for me outside of dances as I got older."</p>
+            </div>
+        </div>
+  
+       <div class="row justify-content-center mb-5">
+            <div class="col-12 col-md-10">
+               <p>"Time passes by and leaves its marks." On the left is Miguela's passport picture when she came for the second time and the right is her on August 2020. </p>
+                <iframe frameborder="0" class="juxtapose" width="100%" height="1000" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=73c26a18-da85-11ea-bf88-a15b6c7adf9a"></iframe>
+                
+            </div>
+        </div>
+  
+        
+        
+    
+        
+    </div><!-- closing container -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/js/bootstrap.min.js" integrity="sha384-XEerZL0cuoUbHE4nZReLT7nx9gQrQreJekYhJD9WNWhH8nEW+0c5qq7aIo2Wl30J" crossorigin="anonymous"></script>
+  </body>
+</html>
